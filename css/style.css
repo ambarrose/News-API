@@ -1,0 +1,54 @@
+#heading {
+  position: relative;
+  display: inline-block;
+  width: 520px;
+  margin-left: 310px;
+}
+#search {
+  position: absolute;
+  display: inline-block;
+  width: 250px;
+  height:50px;
+  margin-top: 15px;
+  margin-left: 250px;
+}
+#select {
+  position: absolute;
+  display: inline-block;
+  margin-top: 45px;
+  right: 0px;
+  font-size: 20px;
+}
+
+
+#filter {
+  position: relative;
+  display: inline-block;
+  width: 1170px;
+  height: 100px;
+  margin-top: 50px;
+  margin-left: 310px;
+}
+form {
+  margin: 10px 40px 0px 40px;
+  display: inline-block;
+  width: 400px;
+}
+
+#click {
+  float: right;
+  margin-right: 50px;
+  margin-top: 30px;
+}
+
+
+#objects {
+  margin-top: 70px;
+  margin-left: 300px;
+}
+
+
+#about {
+  width: 900px;
+  margin-left: 315px;
+}
